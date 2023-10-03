@@ -1,0 +1,11 @@
+.album-grid {
+    display: grid;
+
+}
+
+.album-card {
+    background-color: #fff;
+    padding: 10px;
+    border: 0.5px solid #ddd;
+    border-radius: 5px;
+}
